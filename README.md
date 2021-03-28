@@ -1,3 +1,3 @@
-# Uptime Bot
+# UptimeBot
 
-## Botu İstediğiniz Gibi Paylaşabilir, Edit Atıp Satabilirsiniz.
+# Kullanın İstediğiniz Gibi
